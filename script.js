@@ -43,4 +43,5 @@ function equalclick()
    
      result.value=c;
      console.log(c);
-  }
+  
+    }
